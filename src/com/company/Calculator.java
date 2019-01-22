@@ -2,7 +2,7 @@ package com.company;
 
 public class Calculator {
 
-    private int width;
+    /*private int width;
     private int length;
 
     public void setWidth(int calculatorWidth) {
@@ -19,7 +19,7 @@ public class Calculator {
 
     public int getLength() {
         return length;
-    }
+    }*/
 
     public int calculateArea(int width, int length) {
         int area = width * length;
