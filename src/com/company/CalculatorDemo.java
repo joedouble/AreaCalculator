@@ -3,6 +3,12 @@ package com.company;
 public class CalculatorDemo {
 
     public static void main(String[] args) {
-	// write your code here
+
+        Calculator rectangleArea = new Calculator();
+
+        int recArea = rectangleArea.calculateArea(3,7);
+
+        System.out.println(recArea);
+
     }
 }
