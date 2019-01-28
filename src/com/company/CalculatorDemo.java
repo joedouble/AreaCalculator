@@ -6,6 +6,6 @@ public class CalculatorDemo {
 
         Calculator rectangleArea = new Calculator();
 
-        System.out.println("The area is " + rectangleArea.calculateArea(3, 4));
+        System.out.println("The area is " + rectangleArea.calculateArea(7, 2));
     }
 }
